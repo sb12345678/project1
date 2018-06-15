@@ -12,5 +12,6 @@ for(var i  = 0;i<oLi.length;i++){
        }
        oBox[this.index].style.display="block";
        console.log(1);
+       console.log(2)
     }
 }
